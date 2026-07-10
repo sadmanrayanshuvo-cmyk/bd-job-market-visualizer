@@ -1,0 +1,90 @@
+{
+  "name": "Bangladesh Job Market",
+  "children": [
+    {
+      "name": "RMG",
+      "children": [
+        {
+          "name": "Sewing-machine operator",
+          "value": 100,
+          "metrics": {
+            "wage_tier": "Low",
+            "education_tier": "Low",
+            "ai_exposure_score": 2.0,
+            "informal_share": 0.4
+          },
+          "rationale": "Mostly physical and line-based work with low current AI overlap.",
+          "migration_linked": false
+        }
+      ]
+    },
+    {
+      "name": "Banking & finance",
+      "children": [
+        {
+          "name": "Bank teller / cashier",
+          "value": 60,
+          "metrics": {
+            "wage_tier": "Med",
+            "education_tier": "Med-High",
+            "ai_exposure_score": 7.8,
+            "informal_share": 0.1
+          },
+          "rationale": "Transaction-heavy and screen-based work with relatively high AI exposure.",
+          "migration_linked": false
+        }
+      ]
+    },
+    {
+      "name": "IT",
+      "children": [
+        {
+          "name": "Software developer",
+          "value": 50,
+          "metrics": {
+            "wage_tier": "High",
+            "education_tier": "High",
+            "ai_exposure_score": 8.5,
+            "informal_share": 0.05
+          },
+          "rationale": "Highly digital work with strong potential for AI augmentation.",
+          "migration_linked": false
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "children": [
+        {
+          "name": "Primary school teacher",
+          "value": 80,
+          "metrics": {
+            "wage_tier": "Med",
+            "education_tier": "High",
+            "ai_exposure_score": 5.0,
+            "informal_share": 0.15
+          },
+          "rationale": "Teaching includes human interaction, but planning and content preparation can be AI-assisted.",
+          "migration_linked": false
+        }
+      ]
+    },
+    {
+      "name": "Informal services",
+      "children": [
+        {
+          "name": "Street vendor / hawker",
+          "value": 120,
+          "metrics": {
+            "wage_tier": "Low",
+            "education_tier": "Low",
+            "ai_exposure_score": 1.5,
+            "informal_share": 0.9
+          },
+          "rationale": "Highly physical and informal work with very limited present AI overlap.",
+          "migration_linked": false
+        }
+      ]
+    }
+  ]
+}
