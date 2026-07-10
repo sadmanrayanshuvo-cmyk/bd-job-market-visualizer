@@ -10,15 +10,15 @@ The visualizer shows:
 - modeled AI exposure
 
 ## Data logic
-- Employment and structure are based on BBS Labour Force Survey 2024
+- Employment structure comes from BBS Labour Force Survey 2024
 - Occupation classification follows BSCO 2020
 - AI exposure is a modeled estimate and is kept separate from official statistics
 
-## Planned files
-- data/occupations.csv
-- data/occupations.json
-- data/ai_scores.csv
-- data/site_data.json
-- src/index.html
-- src/app.js
-- src/style.css
+## Planned output files
+- occupations.csv
+- occupations.json
+- ai_scores.csv
+- site_data.json
+- index.html
+- app.js
+- style.css
