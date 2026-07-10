@@ -22,3 +22,4 @@ The visualizer shows:
 - index.html
 - app.js
 - style.css
+Update README with project overview
