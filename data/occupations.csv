@@ -1,0 +1,6 @@
+bsco_code,occupation_title,bsco_major_group,display_sector,employment,wage_tier,education_tier,informal_share,migration_linked,tasks
+,Sewing-machine operator,8,RMG,,Low,Low,,False,"operate sewing machine|stitch garment pieces|follow line instructions"
+,Bank teller / cashier,4,Banking & finance,,Med,Med-High,,False,"process deposits|handle customer transactions|enter account records"
+,Software developer,2,IT,,High,High,,False,"write code|debug software|maintain applications"
+,Primary school teacher,2,Education,,Med,High,,False,"teach lessons|prepare class materials|assess students"
+,Street vendor / hawker,5/9,Informal services,,Low,Low,,False,"sell goods on street|handle cash sales|source small inventory"
